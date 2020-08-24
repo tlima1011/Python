@@ -1,0 +1,1 @@
+print("Com estrutura sequencial") 
